@@ -71,38 +71,31 @@ The dataset includes the following columns:
 
 ![Scatterplot](https://github.com/JiarongF/dataviz-project-proposal/blob/master/scatterplot.png)
 
-This scatterplot visualizes the relationship between the number of likes on YouTube and TikTok for various tracks. It aims to explore whether there is a positive correlation, indicating that songs popular on YouTube also tend to receive a higher number of likes on TikTok.
+
+This scatterplot visualizes the relationship between the number of views on YouTube and TikTok for various tracks. It aims to explore whether there is a positive correlation, indicating that songs popular on YouTube also tend to receive a higher number of likes on TikTok.
 
 
 ![Barplot](https://github.com/JiarongF/dataviz-project-proposal/blob/master/scatterplot.png)
+
 
 This bar plot displays the streaming numbers for the top 10 most popular songs across different platforms. Each bar represents a specific platform, and the height indicates the total stream count for a particular song. This visualization provides a comparative view of how these top tracks perform across multiple platforms, highlighting which platforms contribute the most to a song's overall popularity.
 
 
 ![Heatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/heatmap.png)
 
+
 This plot visualizes the correlation of different variables in this dataset. The color's intensity represents the correlation's strength, with darker shades indicating stronger positive or negative correlations.
 
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-
-[![image]([https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png](https://github.com/JiarongF/dataviz-project-proposal/blob/master/scatterplot.png))]
+I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows YouTube views vs TikTok views. Different color represents different artist. When you hover over each circle, the artist's name is displayed.
 
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
+![vizscatter](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20scatterplot.png)
 
 
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+[Vizhub](https://vizhub.com/JiarongF/songs-scatter-views)
 
 ## Open Questions
 
@@ -110,4 +103,10 @@ Thanks for the valuable feedback from Curran! I really like the idea of text emb
 
 ## Milestones
 
-(for each week, estimate what would be accomplised)
+- **Week 8** - Experiment with text embedding and log transformation
+- **Week 9** - Check if incorporating other music datasets from different years is necessary
+- **Week 10** - Bar plot implementation
+- **Week 11** - Heatmap implementation
+- **Week 12** - Add tooltips if necessary
+- **Week 13** - Finalize plots
+- **Week 14** - Write the report
