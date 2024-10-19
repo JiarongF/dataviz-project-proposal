@@ -75,7 +75,7 @@ The dataset includes the following columns:
 This scatterplot visualizes the relationship between the number of views on YouTube and TikTok for various tracks. It aims to explore whether there is a positive correlation, indicating that songs popular on YouTube also tend to receive a higher number of likes on TikTok.
 
 
-![Barplot](https://github.com/JiarongF/dataviz-project-proposal/blob/master/scatterplot.png)
+![Barplot](https://github.com/JiarongF/dataviz-project-proposal/blob/master/barplot.png)
 
 
 This bar plot displays the streaming numbers for the top 10 most popular songs across different platforms. Each bar represents a specific platform, and the height indicates the total stream count for a particular song. This visualization provides a comparative view of how these top tracks perform across multiple platforms, highlighting which platforms contribute the most to a song's overall popularity.
