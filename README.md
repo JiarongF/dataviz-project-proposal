@@ -97,6 +97,13 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 
 [Vizhub](https://vizhub.com/JiarongF/songs-scatter-views)
 
+This is plot visualizes the top 10 most popular tracks based on their YouTube Views, TikTok Views, and Spotify Streams.
+
+![vizbar](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20barplot.png)
+
+
+[Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
+
 ## Open Questions
 
 Thanks for the valuable feedback from Curran! I really like the idea of text embedding, and I think the log transformation would be a great addition to my project. It's a very insightful suggestion, and I’ll definitely try to incorporate it once I get past midterms (a bit tied up with those at the moment).
