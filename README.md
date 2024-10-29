@@ -104,8 +104,8 @@ This is plot visualizes the top 10 most popular tracks based on their YouTube Vi
 
 [Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
 
-This is the heatmap showing correlation between different variables
-![vizheatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/heatmap.png)
+This is the heatmap showing the correlation between different variables
+![vizheatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/viz%20heatmap.png)
 
 [Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
 
