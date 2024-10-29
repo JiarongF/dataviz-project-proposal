@@ -104,6 +104,11 @@ This is plot visualizes the top 10 most popular tracks based on their YouTube Vi
 
 [Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
 
+This is the heatmap showing correlation between different variables
+![vizheatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/heatmap.png)
+
+[Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
+
 ## Open Questions
 
 Thanks for the valuable feedback from Curran! I really like the idea of text embedding, and I think the log transformation would be a great addition to my project. It's a very insightful suggestion, and I’ll definitely try to incorporate it once I get past midterms (a bit tied up with those at the moment).
