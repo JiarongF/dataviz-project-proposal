@@ -97,17 +97,27 @@ I’ve created a proof of concept visualization of this data. It's a scatterplot
 
 [Vizhub](https://vizhub.com/JiarongF/songs-scatter-views)
 
+This scatter plot reveals interesting patterns in the viewership of music tracks across YouTube and TikTok. Most tracks cluster in the lower-left corner, indicating relatively low view counts on both platforms, with only a few achieving substantial visibility. TikTok shows a broader range of high-view tracks, with some reaching up to 45,000 (in tens of thousands) views, while their YouTube views remain comparatively low. Scattered points in the upper region show tracks that perform well on YouTube, but these are less common. Overall, the plot suggests that while a few tracks gain traction on both platforms, many tend to achieve popularity primarily on either TikTok or YouTube, highlighting TikTok’s stronger role in driving high viewership for music content.
+
 This is plot visualizes the top 10 most popular tracks based on their YouTube Views, TikTok Views, and Spotify Streams.
+
+The legend has been updated to be interactive, making it easier to focus on specific data series. When you hover over a legend item, the corresponding bars in the chart are highlighted, allowing you to quickly compare values across categories.
 
 ![vizbar](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20barplot.png)
 
 
 [Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
 
+This chart really highlights TikTok's influence on music discovery right now. For most of the tracks, TikTok views are way ahead, showing just how powerful the platform is for getting songs out there. "Flowers" is a standout, with a huge spike in TikTok views that suggests it went viral in a big way. Other songs like "MILLION DOLLAR BABY" also do well on TikTok, though not quite to the same level. Spotify streams come in second for most tracks, with songs like "Gata Only" balancing strong numbers on both TikTok and Spotify. Meanwhile, YouTube views are consistently lower, hinting that people might be turning to other platforms to discover and engage with new music. Overall, this chart gives a snapshot of how TikTok is leading the way in music engagement, with Spotify still holding its own, while YouTube seems to be falling behind.
+
 This is the heatmap showing the correlation between different variables
 ![vizheatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/viz%20heatmap.png)
 
-[Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
+[Vizhub](https://vizhub.com/JiarongF/35197c9881a947ffaf9a0efcf9b20b1a)
+
+This correlation heatmap provides an overview of the relationships between various music-related features, showing the strength and direction of their correlations. Darker shades of blue indicate stronger positive correlations, while darker shades of red highlight stronger negative correlations. For instance, TikTok Likes and TikTok Views have a very high positive correlation (0.99), suggesting that more likes on TikTok strongly align with more views. Similarly, Apple Music Playlist Count shows moderate positive correlations with Pandora Streams (0.48) and Deezer Playlist Count (0.79), hinting that songs featured on more Apple Music playlists tend to perform better on other streaming platforms as well.
+
+On the other hand, there are some weaker or near-zero correlations, like Explicit Track with most features, indicating that a track's explicit status doesn't strongly correlate with other performance metrics. Negative correlations, though limited, include YouTube Likes with Explicit Track (-0.10), suggesting that explicit content may slightly affect YouTube engagement.
 
 ## Open Questions
 
