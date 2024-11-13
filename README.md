@@ -92,10 +92,8 @@ This plot visualizes the correlation of different variables in this dataset. The
 I’ve created a proof of concept visualization of this data. It's a scatterplot and it shows YouTube views vs TikTok views. Different color represents different artist. When you hover over each circle, the artist's name is displayed.
 
 
-![vizscatter](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20scatterplot.png)
+[![vizscatter](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20scatterplot.png)](https://vizhub.com/JiarongF/songs-scatter-views)
 
-
-[Vizhub](https://vizhub.com/JiarongF/songs-scatter-views)
 
 This scatter plot reveals interesting patterns in the viewership of music tracks across YouTube and TikTok. Most tracks cluster in the lower-left corner, indicating relatively low view counts on both platforms, with only a few achieving substantial visibility. TikTok shows a broader range of high-view tracks, with some reaching up to 45,000 (in tens of thousands) views, while their YouTube views remain comparatively low. Scattered points in the upper region show tracks that perform well on YouTube, but these are less common. Overall, the plot suggests that while a few tracks gain traction on both platforms, many tend to achieve popularity primarily on either TikTok or YouTube, highlighting TikTok’s stronger role in driving high viewership for music content.
 
@@ -103,17 +101,17 @@ This is plot visualizes the top 10 most popular tracks based on their YouTube Vi
 
 The legend has been updated to be interactive, making it easier to focus on specific data series. When you hover over a legend item, the corresponding bars in the chart are highlighted, allowing you to quickly compare values across categories.
 
-![vizbar](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20barplot.png)
+[![Barchart](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20barplot.png))](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
 
-
-[Vizhub](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
 
 This chart really highlights TikTok's influence on music discovery right now. For most of the tracks, TikTok views are way ahead, showing just how powerful the platform is for getting songs out there. "Flowers" is a standout, with a huge spike in TikTok views that suggests it went viral in a big way. Other songs like "MILLION DOLLAR BABY" also do well on TikTok, though not quite to the same level. Spotify streams come in second for most tracks, with songs like "Gata Only" balancing strong numbers on both TikTok and Spotify. Meanwhile, YouTube views are consistently lower, hinting that people might be turning to other platforms to discover and engage with new music. Overall, this chart gives a snapshot of how TikTok is leading the way in music engagement, with Spotify still holding its own, while YouTube seems to be falling behind.
 
 This is the heatmap showing the correlation between different variables
-![vizheatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/viz%20heatmap.png)
 
-[Vizhub](https://vizhub.com/JiarongF/35197c9881a947ffaf9a0efcf9b20b1a)
+[![Correlation Heatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/viz%20heatmap.png)](https://vizhub.com/JiarongF/35197c9881a947ffaf9a0efcf9b20b1a?mode=embed)
+
+This correlation heatmap provides an overview of the relationships between various music-related features, showing the strength and direction of their correlations. Darker shades of blue indicate stronger positive correlations, while darker shades of red highlight stronger negative correlations. For instance, TikTok Likes and TikTok Views have a very high positive correlation (0.99), suggesting that more likes on TikTok strongly align with more views.
+
 
 This correlation heatmap provides an overview of the relationships between various music-related features, showing the strength and direction of their correlations. Darker shades of blue indicate stronger positive correlations, while darker shades of red highlight stronger negative correlations. For instance, TikTok Likes and TikTok Views have a very high positive correlation (0.99), suggesting that more likes on TikTok strongly align with more views. Similarly, Apple Music Playlist Count shows moderate positive correlations with Pandora Streams (0.48) and Deezer Playlist Count (0.79), hinting that songs featured on more Apple Music playlists tend to perform better on other streaming platforms as well.
 
@@ -126,9 +124,9 @@ Thanks for the valuable feedback from Curran! I really like the idea of text emb
 ## Milestones
 
 - **Week 8** - Experiment with text embedding and log transformation
-- **Week 9** - Check if incorporating other music datasets from different years is necessary
-- **Week 10** - Bar plot implementation
-- **Week 11** - Heatmap implementation
-- **Week 12** - Add tooltips if necessary
+- **Week 9** - Barchart implementation
+- **Week 10** - Heatmap implementation
+- **Week 11** - Add hover effect to bar chart
+- **Week 12** - Add tooltips to heatmap
 - **Week 13** - Finalize plots
 - **Week 14** - Write the report
