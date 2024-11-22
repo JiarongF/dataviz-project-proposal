@@ -101,7 +101,7 @@ This is plot visualizes the top 10 most popular tracks based on their YouTube Vi
 
 The legend has been updated to be interactive, making it easier to focus on specific data series. When you hover over a legend item, the corresponding bars in the chart are highlighted, allowing you to quickly compare values across categories.
 
-[![Barchart](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20barplot.png))](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
+[![Barchart](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20barplot.png)](https://vizhub.com/JiarongF/02f045b471f6419d903804bc5086ab54)
 
 
 This chart really highlights TikTok's influence on music discovery right now. For most of the tracks, TikTok views are way ahead, showing just how powerful the platform is for getting songs out there. "Flowers" is a standout, with a huge spike in TikTok views that suggests it went viral in a big way. Other songs like "MILLION DOLLAR BABY" also do well on TikTok, though not quite to the same level. Spotify streams come in second for most tracks, with songs like "Gata Only" balancing strong numbers on both TikTok and Spotify. Meanwhile, YouTube views are consistently lower, hinting that people might be turning to other platforms to discover and engage with new music. Overall, this chart gives a snapshot of how TikTok is leading the way in music engagement, with Spotify still holding its own, while YouTube seems to be falling behind.
