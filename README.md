@@ -108,7 +108,7 @@ This chart really highlights TikTok's influence on music discovery right now. Fo
 
 This is the heatmap showing the correlation between different variables
 
-[![Correlation Heatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/viz%20heatmap.png)](https://vizhub.com/JiarongF/35197c9881a947ffaf9a0efcf9b20b1a?mode=embed)
+[![Correlation Heatmap](https://github.com/JiarongF/dataviz-project-proposal/blob/master/vizhub%20heatmap.png)](https://vizhub.com/JiarongF/35197c9881a947ffaf9a0efcf9b20b1a?mode=embed)
 
 This correlation heatmap provides an overview of the relationships between various music-related features, showing the strength and direction of their correlations. Darker shades of blue indicate stronger positive correlations, while darker shades of red highlight stronger negative correlations. For instance, TikTok Likes and TikTok Views have a very high positive correlation (0.99), suggesting that more likes on TikTok strongly align with more views.
 
